@@ -17,4 +17,3 @@ jobs:
       pr-body: ${{ github.event.pull_request.body }}
       pr-author-login: ${{ github.event.pull_request.user.login }}
       pr-author-type: ${{ github.event.pull_request.user.type }}
-      
